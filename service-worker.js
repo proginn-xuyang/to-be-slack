@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e067a154fbe6e9c6183c846a56a51e5b.js"
+  "precache-manifest.9338786c5544209ca70a196cafa0120f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ToBeSlack"});
